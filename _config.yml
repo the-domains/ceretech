@@ -1,7 +1,7 @@
 name: Ceretech
 favicon: null
-layout_spectrum: 0.24156163493171334
-typography_spectrum: 0.31270366278477013
+layout_spectrum: 0.24609
+typography_spectrum: 0.99458
 cta:
   domain: null
   bucket: null
